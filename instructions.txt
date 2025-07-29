@@ -1,0 +1,48 @@
+full code:
+rm -rf graphs/ && \
+mvn clean install -DskipTests && \
+java -Ddw.graphhopper.datareader.file=sudan-latest.osm.pbf \
+-Ddw.graphhopper.gtfs.file=gtfs.zip \
+-Ddw.graphhopper.graph.location=graphs/khartoum-gtfs \
+-jar web/target/graphhopper-web-*.jar import config.yml && \
+java -Xmx8g -jar web/target/graphhopper-web-*.jar server config.yml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---clean cache data:
+rm -rf graphs/  # or whatever your `graph.location` is set to
+
+
+
+---load gtfs and config file:
+
+java -Ddw.graphhopper.datareader.file=sudan-latest.osm.pbf \
+-Ddw.graphhopper.gtfs.file=gtfs.zip \
+-Ddw.graphhopper.graph.location=graphs/khartoum-gtfs \
+-jar web/target/graphhopper-web-*.jar import config.yml
+
+
+---build api:
+mvn clean install -DskipTests
+
+
+
+---run api:
+java -Xmx8g -jar web/target/graphhopper-web-*.jar server config.yml
+
+
+
+

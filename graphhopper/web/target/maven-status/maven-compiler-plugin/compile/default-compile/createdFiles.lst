@@ -1,0 +1,5 @@
+com/graphhopper/application/cli/ImportCommand.class
+com/graphhopper/application/cli/MatchCommand.class
+com/graphhopper/application/GraphHopperApplication.class
+com/graphhopper/application/GraphHopperServerConfiguration.class
+com/graphhopper/application/resources/RootResource.class

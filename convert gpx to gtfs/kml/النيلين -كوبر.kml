@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>النيلين -كوبر</name>
+    <description>خط  بمشي بيه الجامعة </description>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1267FF-5000-nodesc-normal">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-1267FF-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-1267FF-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1267FF-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>جامعة النيلين</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5133467,15.6030068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point 2</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5181763,15.6037912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point 4</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5222649,15.6044858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point 5</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5339236,15.60632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point 6</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5445315,15.6080176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>محطة كوبر</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5533533,15.6090181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Directions from Point 1 to Point 2</name>
+      <Placemark>
+        <name>Directions from Point 1 to Point 2</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            32.51334,15.60303,0
+            32.51363,15.60307,0
+            32.51373,15.60309,0
+            32.51466,15.60324,0
+            32.51479,15.60325,0
+            32.51592,15.60342,0
+            32.51686,15.60358,0
+            32.51687,15.60358,0
+            32.51741,15.60367,0
+            32.51806,15.60378,0
+            32.51818,15.60379,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Point 1</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.513343,15.6030283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point 2</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5181758,15.6037941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Directions from Point 2 to Point 4</name>
+      <Placemark>
+        <name>Directions from Point 2 to Point 4</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            32.51818,15.60379,0
+            32.51843,15.60383,0
+            32.51926,15.60397,0
+            32.51975,15.60405,0
+            32.52012,15.60412,0
+            32.52012,15.60411,0
+            32.52013,15.6041,0
+            32.52013,15.60409,0
+            32.52014,15.60409,0
+            32.52014,15.60408,0
+            32.52015,15.60408,0
+            32.52015,15.60407,0
+            32.52016,15.60407,0
+            32.52016,15.60406,0
+            32.52017,15.60406,0
+            32.52018,15.60406,0
+            32.52018,15.60405,0
+            32.52019,15.60405,0
+            32.5202,15.60405,0
+            32.52021,15.60405,0
+            32.52022,15.60405,0
+            32.52023,15.60405,0
+            32.52024,15.60405,0
+            32.52025,15.60405,0
+            32.52026,15.60405,0
+            32.52027,15.60405,0
+            32.52028,15.60405,0
+            32.52029,15.60405,0
+            32.52029,15.60406,0
+            32.5203,15.60406,0
+            32.52031,15.60407,0
+            32.52032,15.60407,0
+            32.52032,15.60408,0
+            32.52033,15.60409,0
+            32.52034,15.6041,0
+            32.52034,15.60411,0
+            32.52035,15.60412,0
+            32.52035,15.60413,0
+            32.52035,15.60414,0
+            32.52035,15.60415,0
+            32.52119,15.60428,0
+            32.5212,15.60428,0
+            32.52167,15.60435,0
+            32.52227,15.60445,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Point 2</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5181758,15.6037941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point 4</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.522271,15.60445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Directions from Point 4 to Point 5</name>
+      <Placemark>
+        <name>Directions from Point 4 to Point 5</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            32.52227,15.60445,0
+            32.52241,15.60447,0
+            32.52289,15.60453,0
+            32.52342,15.60462,0
+            32.52383,15.60469,0
+            32.52397,15.60471,0
+            32.52406,15.60473,0
+            32.52443,15.60479,0
+            32.52475,15.60485,0
+            32.52477,15.60485,0
+            32.5254,15.60495,0
+            32.52577,15.605,0
+            32.52597,15.60504,0
+            32.52632,15.60509,0
+            32.52672,15.60517,0
+            32.52673,15.60517,0
+            32.52735,15.60527,0
+            32.5279,15.60535,0
+            32.528,15.60537,0
+            32.52856,15.60546,0
+            32.52874,15.60549,0
+            32.52913,15.60555,0
+            32.52976,15.60565,0
+            32.53049,15.60577,0
+            32.53053,15.60578,0
+            32.53163,15.60595,0
+            32.53272,15.60613,0
+            32.53392,15.60632,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Point 4</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.522271,15.60445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point 5</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5339242,15.6063165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Directions from Point 5 to Point 6</name>
+      <Placemark>
+        <name>Directions from Point 5 to Point 6</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            32.53392,15.60632,0
+            32.53405,15.60634,0
+            32.53414,15.60636,0
+            32.53498,15.6065,0
+            32.53548,15.60658,0
+            32.5366,15.60675,0
+            32.53714,15.60684,0
+            32.53733,15.60687,0
+            32.53769,15.60693,0
+            32.53834,15.60703,0
+            32.53852,15.60706,0
+            32.53907,15.60715,0
+            32.54156,15.60756,0
+            32.54248,15.60771,0
+            32.5435,15.60787,0
+            32.54422,15.60798,0
+            32.54453,15.60802,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Point 5</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5339242,15.6063165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point 6</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5445306,15.6080236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Directions from Point 6 to محطة كوبر</name>
+      <Placemark>
+        <name>Directions from Point 6 to محطة كوبر</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            32.54453,15.60802,0
+            32.54477,15.60806,0
+            32.54486,15.60807,0
+            32.54502,15.6081,0
+            32.54604,15.60827,0
+            32.54688,15.60838,0
+            32.54711,15.60842,0
+            32.54717,15.60843,0
+            32.5484,15.60863,0
+            32.54859,15.60867,0
+            32.55211,15.60922,0
+            32.55275,15.60932,0
+            32.55298,15.60929,0
+            32.55316,15.60927,0
+            32.55335,15.60922,0
+            32.55343,15.60918,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Point 6</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5445306,15.6080236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>محطة كوبر</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.5534282,15.6091836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

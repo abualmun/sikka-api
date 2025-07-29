@@ -1,0 +1,15 @@
+com/graphhopper/util/PMapTest.class
+com/graphhopper/jackson/StatementDeserializerTest.class
+com/graphhopper/jackson/PathDetailDeserializerTest.class
+com/graphhopper/jackson/ResponsePathRepresentationTest.class
+com/graphhopper/jackson/RouteResourceRepresentationTest.class
+com/graphhopper/util/shapes/GHPoint3DTest.class
+com/graphhopper/util/GHResponseTest.class
+com/graphhopper/util/HelperTest.class
+com/graphhopper/util/CustomModelTest.class
+com/graphhopper/jackson/InstructionListRepresentationTest.class
+com/graphhopper/jackson/InstructionListRepresentationTest$1.class
+com/graphhopper/util/GHRequestTest.class
+com/graphhopper/util/shapes/GHPointTest.class
+com/graphhopper/jackson/JsonFeatureCollectionTest.class
+com/graphhopper/util/FinishInstructionTest.class

@@ -1,0 +1,11 @@
+com/graphhopper/navigation/DistanceConfig.class
+com/graphhopper/navigation/ConditionalDistanceVoiceInstructionConfig.class
+com/graphhopper/navigation/DistanceUtils.class
+com/graphhopper/navigation/DistanceUtils$Unit.class
+com/graphhopper/navigation/VoiceInstructionConfig.class
+com/graphhopper/navigation/InitialVoiceInstructionConfig.class
+com/graphhopper/navigation/NavigateResource.class
+com/graphhopper/navigation/VoiceInstructionConfig$VoiceInstructionValue.class
+com/graphhopper/navigation/FixedDistanceVoiceInstructionConfig.class
+com/graphhopper/navigation/NavigateResponseConverter.class
+com/graphhopper/navigation/DistanceUtils$UnitTranslationKey.class

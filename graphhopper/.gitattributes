@@ -1,0 +1,2 @@
+graphs/khartoum-gtfs/pt_edge_attrs filter=lfs diff=lfs merge=lfs -text
+graphs/khartoum-gtfs/pt_edges filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,13 @@
+com/graphhopper/ExtendedRouteTypeIT.class
+com/graphhopper/GraphHopperGtfsIT.class
+com/graphhopper/gtfs/fare/FareTest$DataPointProvider.class
+com/graphhopper/gtfs/fare/FareTest.class
+com/graphhopper/GraphHopperMultimodalIT.class
+com/graphhopper/gtfs/analysis/AnalysisTest.class
+com/graphhopper/gtfs/fare/FareTest$2.class
+com/graphhopper/AnotherAgencyIT.class
+com/graphhopper/RealtimeIT.class
+com/graphhopper/gtfs/fare/FareTest$1.class
+com/graphhopper/FreeWalkIT.class
+com/graphhopper/gtfs/TransfersTest.class
+com/graphhopper/gtfs/fare/MoreFareTests.class

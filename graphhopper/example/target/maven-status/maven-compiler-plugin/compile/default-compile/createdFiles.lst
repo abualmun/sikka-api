@@ -1,0 +1,6 @@
+com/graphhopper/example/LowLevelAPIExample.class
+com/graphhopper/example/RoutingExample.class
+com/graphhopper/example/LocationIndexExample.class
+com/graphhopper/example/IsochroneExample.class
+com/graphhopper/example/RoutingExampleTC.class
+com/graphhopper/example/HeadingExample.class

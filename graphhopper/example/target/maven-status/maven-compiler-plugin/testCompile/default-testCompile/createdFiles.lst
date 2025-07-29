@@ -1,0 +1,4 @@
+com/graphhopper/example/LowLevelAPIExampleTest.class
+com/graphhopper/example/LocationIndexExampleTest.class
+com/graphhopper/example/RoutingExampleTest.class
+com/graphhopper/example/HeadingExampleTest.class

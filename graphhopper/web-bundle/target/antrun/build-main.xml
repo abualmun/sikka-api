@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <untar src="/home/abualmun/shigoto/java/graphhopper/web-bundle/target/graphhopper-graphhopper-maps-bundle-0.0.0-c688588ae7fcba2b28d3ce25a6ebbaaa27a42f8e.tgz" compression="gzip" dest="/home/abualmun/shigoto/java/graphhopper/web-bundle/target/classes/com/graphhopper/maps">
+    <patternset>
+      <include name="package/dist/**"/>
+      <exclude name="package/dist/config.js"/>
+    </patternset>
+    <mapper from="package\/dist\/(.*)" to="\1" type="regexp"/>
+  </untar>
+</target>
+</project>

@@ -1,0 +1,16 @@
+com/graphhopper/matching/MapMatching$Label.class
+com/graphhopper/matching/HmmProbabilities.class
+com/graphhopper/matching/ObservationWithCandidateStates.class
+com/graphhopper/matching/SequenceState.class
+com/graphhopper/matching/Transition.class
+com/graphhopper/matching/MapMatching$1.class
+com/graphhopper/matching/EdgeMatch.class
+com/graphhopper/matching/MapMatching$1$1.class
+com/graphhopper/matching/MapMatching.class
+com/graphhopper/matching/Observation.class
+com/graphhopper/matching/Distributions.class
+com/graphhopper/matching/MapMatching$Router.class
+com/graphhopper/matching/State.class
+com/graphhopper/matching/MatchResult.class
+com/graphhopper/matching/MapMatching$MapMatchedPath.class
+com/graphhopper/matching/MapMatching$1$2.class
