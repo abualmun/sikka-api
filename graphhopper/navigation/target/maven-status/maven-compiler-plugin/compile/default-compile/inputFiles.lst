@@ -1,5 +1,5 @@
-/home/abualmun/shigoto/java/graphhopper/navigation/src/main/java/com/graphhopper/navigation/DistanceConfig.java
-/home/abualmun/shigoto/java/graphhopper/navigation/src/main/java/com/graphhopper/navigation/VoiceInstructionConfig.java
-/home/abualmun/shigoto/java/graphhopper/navigation/src/main/java/com/graphhopper/navigation/NavigateResponseConverter.java
-/home/abualmun/shigoto/java/graphhopper/navigation/src/main/java/com/graphhopper/navigation/DistanceUtils.java
-/home/abualmun/shigoto/java/graphhopper/navigation/src/main/java/com/graphhopper/navigation/NavigateResource.java
+/home/abualmun/shigoto/sikka-api/graphhopper/navigation/src/main/java/com/graphhopper/navigation/VoiceInstructionConfig.java
+/home/abualmun/shigoto/sikka-api/graphhopper/navigation/src/main/java/com/graphhopper/navigation/DistanceConfig.java
+/home/abualmun/shigoto/sikka-api/graphhopper/navigation/src/main/java/com/graphhopper/navigation/DistanceUtils.java
+/home/abualmun/shigoto/sikka-api/graphhopper/navigation/src/main/java/com/graphhopper/navigation/NavigateResource.java
+/home/abualmun/shigoto/sikka-api/graphhopper/navigation/src/main/java/com/graphhopper/navigation/NavigateResponseConverter.java

@@ -1,5 +1,5 @@
-/home/abualmun/shigoto/java/graphhopper/navigation/src/test/java/com/graphhopper/navigation/VoiceInstructionConfigTest.java
-/home/abualmun/shigoto/java/graphhopper/navigation/src/test/java/com/graphhopper/navigation/NavigateResponseConverterTranslationMapTest.java
-/home/abualmun/shigoto/java/graphhopper/navigation/src/test/java/com/graphhopper/navigation/DistanceConfigTest.java
-/home/abualmun/shigoto/java/graphhopper/navigation/src/test/java/com/graphhopper/navigation/NavigateResourceTest.java
-/home/abualmun/shigoto/java/graphhopper/navigation/src/test/java/com/graphhopper/navigation/NavigateResponseConverterTest.java
+/home/abualmun/shigoto/sikka-api/graphhopper/navigation/src/test/java/com/graphhopper/navigation/NavigateResponseConverterTranslationMapTest.java
+/home/abualmun/shigoto/sikka-api/graphhopper/navigation/src/test/java/com/graphhopper/navigation/NavigateResourceTest.java
+/home/abualmun/shigoto/sikka-api/graphhopper/navigation/src/test/java/com/graphhopper/navigation/NavigateResponseConverterTest.java
+/home/abualmun/shigoto/sikka-api/graphhopper/navigation/src/test/java/com/graphhopper/navigation/VoiceInstructionConfigTest.java
+/home/abualmun/shigoto/sikka-api/graphhopper/navigation/src/test/java/com/graphhopper/navigation/DistanceConfigTest.java

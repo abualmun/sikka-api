@@ -1,6 +1,6 @@
 # properties will be filled by git-commit-id-plugin during maven build
-${git.commit.id}
-${git.commit.time}
-${git.commit.message.short}
-${git.branch}
-${git.dirty}
+2e5a7c94b39c0d08b690eed57328374f920c9fa3
+2025-07-29T20:02:20+0300
+lfs
+main
+true

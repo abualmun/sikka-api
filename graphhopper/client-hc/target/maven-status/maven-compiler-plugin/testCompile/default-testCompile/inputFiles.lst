@@ -1,6 +1,6 @@
-/home/abualmun/shigoto/java/graphhopper/client-hc/src/test/java/com/graphhopper/api/AbstractGHMatrixWebTester.java
-/home/abualmun/shigoto/java/graphhopper/client-hc/src/test/java/com/graphhopper/api/GHMatrixSyncTest.java
-/home/abualmun/shigoto/java/graphhopper/client-hc/src/test/java/com/graphhopper/api/GraphHopperWebTest.java
-/home/abualmun/shigoto/java/graphhopper/client-hc/src/test/java/com/graphhopper/api/model/GHGeocodingResponseRepresentationTest.java
-/home/abualmun/shigoto/java/graphhopper/client-hc/src/test/java/com/graphhopper/api/Examples.java
-/home/abualmun/shigoto/java/graphhopper/client-hc/src/test/java/com/graphhopper/api/GHMatrixBatchTest.java
+/home/abualmun/shigoto/sikka-api/graphhopper/client-hc/src/test/java/com/graphhopper/api/model/GHGeocodingResponseRepresentationTest.java
+/home/abualmun/shigoto/sikka-api/graphhopper/client-hc/src/test/java/com/graphhopper/api/GHMatrixBatchTest.java
+/home/abualmun/shigoto/sikka-api/graphhopper/client-hc/src/test/java/com/graphhopper/api/AbstractGHMatrixWebTester.java
+/home/abualmun/shigoto/sikka-api/graphhopper/client-hc/src/test/java/com/graphhopper/api/GraphHopperWebTest.java
+/home/abualmun/shigoto/sikka-api/graphhopper/client-hc/src/test/java/com/graphhopper/api/Examples.java
+/home/abualmun/shigoto/sikka-api/graphhopper/client-hc/src/test/java/com/graphhopper/api/GHMatrixSyncTest.java
