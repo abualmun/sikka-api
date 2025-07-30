@@ -1,4 +1,4 @@
-datareader.import.date=2025-07-29T17:52:42Z
+datareader.import.date=2025-07-30T19:14:09Z
 datareader.data.date=2025-07-18T20:20:45Z
 profiles=foot|-1204799686
 graph.em.version=4
